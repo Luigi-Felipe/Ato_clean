@@ -2,7 +2,7 @@ import os
 import shutil
 import ctypes
 import sys
-import stat                            #versão 1.2sss
+import stat                            #versão 1.2ssss
 
 def is_admin():
     """Verifica se o script está rodando como Administrador."""
